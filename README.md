@@ -21,7 +21,7 @@ the will will parsed to "realWill" and data.the payload will parsed to "realMess
 
 the compare is not so simple.i use json and use logic word "or" and "and" and "not" to make the filter.for example,the payload is {"realMessage":"you're beaultiful","filter":"{"and":[{ "or":[{ "country":"USA"},{ "country":"JPA"}]},{"and":[{"not":{"version":"1.0"}},{"not":{"version":"2.0"}},{"not":{"version":"1.0"}}]}]}"}
 
-and one client who subscribe to this topic with will {"realWill":"i am die","country":"CN","version":"2.0","clour":"yellow"} will not receive the message.because it's version is 2.0,it's country is CN,so this logical statement's value is false.if the version is 3.0,then things will diffierent.
+and one client who subscribe to this topic with will {"realWill":"i am die","country":"JPA","version":"2.0","clour":"yellow"} will not receive the message.because it's version is 2.0,it's country is CN,so this logical statement's value is false.if the version is 3.0,then things will diffierent.
 
 I put the unitest code to the tese/unitest/,code covers nothing,can see more example there.
 use the project by follow steps.
