@@ -26,10 +26,14 @@ and one client who subscribe to this topic with will {"realWill":"i am die","cou
 I put the unitest code to the tese/unitest/,code covers nothing,can see more example there.
 use the project by follow steps.
 git clone this repository.
-make 
-meet errors
-fix errors
-install
+
+make.
+
+meet errors.
+
+fix errors.
+
+install.
 
  
 
