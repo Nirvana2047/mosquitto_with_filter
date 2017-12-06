@@ -35,7 +35,7 @@ fix errors.
 
 install.
 
- 
+run it by command "mosquitto -c mosquitto.conf",mosquitto2.conf,mosquitto3.conf i use them to test the bridge function in lan,do not use them as the configure file.
 
 
 
