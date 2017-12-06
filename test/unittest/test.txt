@@ -1,0 +1,26 @@
+{"and":[{ "or":[{ "country":"美国"},{ "country":"日本"}]},{"and":[{"not":{"version":"1.0"}},{"not":{"version":"2.0"}},{"not":{"version":"1.0"}}]}]}
+{"not":{"version":"5.0"}}
+{"country":"中国"}
+{"country":"美国"}
+{"not":{"country":"中国"}}
+{"not":{"and":[{"not":{"deviceId":"qrrwe"}},{"or":[{"zuji":"中国"},{"name":"lirui"}]}]}}
+{"not":{"version":"2.0"}}
+{"dage":"doh"}
+{ "or":[{ "country":"美国"},{ "country":"日本"}]}  
+{ "and":[{ "country":"美国"},{ "country":"日本"}]}  
+{ "and":[{ "country":"美国"},{ "name":"日本"}]}
+{ "and":[{ "country":"美国"},{ "version":"2.0"}]}
+{ "and":[{ "country":"美国"},{ "version":"2.0"},{"deviceId":"12345"}]}  
+{ "and":[{ "country":"美国"},{ "version":"2.0"},{"deviceId":"1234"}]}
+{ "and":[{ "country":"美国"},{ "version":"3.0"},{"deviceId":"1234"}]} 
+{ "or":[{ "country":"美国"},{ "version":"2.0"},{"deviceId":"1234"}]}
+{ "or":[{ "country":"美国"},{ "version":"3.0"},{"deviceId":"1234"}]}    
+{ "or":[{ "country":"美"},{ "version":"4.0"},{"deviceId":"1234"}]}
+{ "or":[{ "or":[{ "country":"美国"},{ "country":"日本"}]},{"and":[{"not":{"version":"1.0"}},{"not":{"version":"2.0"}},{"not":{"version":"1.0"}}]}]} 
+{"or":[{ "or":[{ "country":"美"},{ "country":"日本"}]},{"and":[{"not":{"version":"1.0"}},{"not":{"version":"2.0"}},{"not":{"version":"1.0"}}]}]}
+{"or":[{ "or":[{ "country":"美"},{ "country":"日本"}]},{"or":[{"not":{"version":"1.0"}},{"not":{"version":"2.0"}},{"not":{"version":"1.0"}}]}]}
+{"or":[{ "or":[{ "country":"美"},{ "country":"日本"}]},{"or":[{"not":{"version":"2.0"}},{"not":{"version":"2.0"}},{"not":{"version":"2.0"}}]}]}
+adasfsdaffgs 
+
+rwqerewr
+{"and":[{ "or":[{ "country":"美国"},{ "country":"日本"}]},{"and":[{"not":{"version":"1.0"}},{"not":{"country":"sdf"}},{"not":{"deviceId":"wsff"}}]}]}     
